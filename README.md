@@ -1,8 +1,9 @@
 ## Máximo Alejandro Seimandi
 ## Sobre mí
-👾 Desarrollador junior.
-📚 Dispuesto al Aprendisaje.
+- 👾 Desarrollador junior.
+- 📚 Dispuesto al Aprendizaje.
 ## Mis habilidades
-Lenguajes: C++, C#, SQL.
-Frameworks: ASP.NET, Bootstrap, Blazor.
-Herramientas: Git, VScode, Visual Studio 2022, SqlServer, PostgreSQL, Mysql.
+- **Lenguajes**: C++, C#, SQL.
+- **Frameworks**: ASP.NET, Bootstrap, Blazor.
+- **Herramientas**: Git, VScode, Visual Studio 2022. 
+- **Base de dato**: SqlServer, PostgreSQL, Mysql.
